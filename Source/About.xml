@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>SF [B18] Simple Oil Lantern</name>
+  <author>Shotgunfrenzy</author>
+  <targetVersion>0.18.1722</targetVersion>
+  <description>Adds a simple oil lantern that runs on chemfuel, helps during blackouts</description>
+</ModMetaData>
