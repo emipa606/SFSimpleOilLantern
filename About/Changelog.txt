@@ -1,5 +1,8 @@
 # Changelog for SFSimpleOilLantern
 
+1.0.3.0 - Added support for Simple FX: Smoke
+
+
 1.0.2.0 - Mod updated for 1.3 and passed autotests
 
 

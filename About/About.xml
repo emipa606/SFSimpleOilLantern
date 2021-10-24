@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>SF Simple Oil Lantern (Continued)</name>
   <packageId>Mlie.SFSimpleOilLantern</packageId>
@@ -11,11 +11,11 @@
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+  <description>[img]https://i.imgur.com/buuPQel.png[/img]
 Update of Shotgunfrenzys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1395664099
 
-[img]https://i.imgur.com/7Gzt3Rg.png[/img]
+[img]https://i.imgur.com/pufA0kM.png[/img]
 
 [table]
     [tr]
@@ -24,7 +24,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1395664099
     [/tr]
 [/table]
 	
-[img]https://i.imgur.com/NOW7jU1.png[/img]
+[img]https://i.imgur.com/Z4GOv8H.png[/img]
 Adds a simple oil lantern that runs on chemfuel, helps during blackouts
 
 Basically an alternative to the vanilla torch, except uses chemfuel instead of wood and you can also place this anywhere, such as a table, dresser or a workbench
@@ -43,7 +43,7 @@ Art: Shotgunfrenzy
 
 My stuff can also be found here: https://ludeon.com/forums/index.php?topic=37350.0
 
-[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[img]https://i.imgur.com/PwoNOj4.png[/img]
 [list]
 [*] See if the the error persists if you just have this mod and its requirements active.
 [*] If not, try adding your other mods until it happens again.
