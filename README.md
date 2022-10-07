@@ -5,6 +5,8 @@
 Update of Shotgunfrenzys mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=1395664099
 
+- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2574489704]Simple FX: Smoke
+
 ![Image](https://i.imgur.com/pufA0kM.png)
 
 	
@@ -38,6 +40,7 @@ My stuff can also be found here: https://ludeon.com/forums/index.php?topic=37350
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
