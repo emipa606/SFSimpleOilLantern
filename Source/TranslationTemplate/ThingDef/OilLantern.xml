@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Oil lantern -->
+  <OilLantern.label>Oil lantern</OilLantern.label>
+  <!-- EN: A simple lantern to provide light, works well when theres a solar storm raging above. -->
+  <OilLantern.description>A simple lantern to provide light, works well when theres a solar storm raging above.</OilLantern.description>
+</LanguageData>

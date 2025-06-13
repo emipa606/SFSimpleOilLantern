@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>24b2c1a9-c658-4466-83b2-3b1590361e2f</ID>
   <ModName>SF Simple Oil Lantern (Continued)</ModName>
-  <Version>1.5.0</Version>
+  <Version>1.6.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,3 +12,4 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
+
