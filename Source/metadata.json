@@ -3,7 +3,12 @@
   "CanAdd": "0",
   "CanRemove": "2",
   "PreviewVersion": "1.6",
-  "LastXmlCleaning": "2025-06-13T21:11:05.9184162+02:00",
+  "LastXmlCleaning": "2025-07-01T22:18:35.620776+02:00",
   "SocialImageSet": true,
-  "SearchTags": " blackout aid"
+  "SearchTags": " blackout aid",
+  "Patches": true,
+  "Defs": true,
+  "Assemblies": false,
+  "LinesOfCode": 0,
+  "LinesOfXML": 3344.0
 }

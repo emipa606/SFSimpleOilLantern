@@ -26,6 +26,9 @@
     <minifiedDef>MinifiedThing</minifiedDef>
     <rotatable>false</rotatable>
     <leaveResourcesWhenKilled>True</leaveResourcesWhenKilled>
+    <researchPrerequisites>
+      <li>ComplexFurniture</li>
+    </researchPrerequisites>
     <statBases>
       <MaxHitPoints>75</MaxHitPoints>
       <WorkToBuild>200</WorkToBuild>
